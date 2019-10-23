@@ -1,2 +1,2 @@
-# zero-day
-base
+# base
+# 用作变成语言基础练习
